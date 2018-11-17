@@ -35,6 +35,14 @@
         {
           "image_file": "lukin_pensando.webp",
           "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "sanja.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "asensio_flipau.webp",
+          "emojis": ["😍","💑"]
         }
       ]
     },
