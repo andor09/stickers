@@ -31,6 +31,10 @@
         {
           "image_file": "joseba_zaldua.webp",
           "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "lukin_pensando.webp",
+          "emojis": ["😍","♥"]
         }
       ]
     },
@@ -67,6 +71,10 @@
         {
           "image_file": "taffy_vomit.webp",
           "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "taffy_angel.webp",
+          "emojis": ["💔","👎"]
         }
       ]
     },
