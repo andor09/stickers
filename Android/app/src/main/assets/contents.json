@@ -31,18 +31,6 @@
         {
           "image_file": "joseba_zaldua.webp",
           "emojis": ["😭","💧"]
-        },
-        {
-          "image_file": "lukin_pensando.webp",
-          "emojis": ["😍","♥"]
-        },
-        {
-          "image_file": "sanja.webp",
-          "emojis": ["💔","👎"]
-        },
-        {
-          "image_file": "asensio_flipau.webp",
-          "emojis": ["😍","💑"]
         }
       ]
     },
@@ -88,6 +76,30 @@
     },
     {
       "identifier": "3",
+      "name": "Borrachos",
+      "publisher": "Andoni",
+      "tray_image_file": "brugal_tray.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "lukin_pensando.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sanja.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "asensio_flipau.webp",
+          "emojis": ["😆","😂"]
+        }
+      ]
+    },
+    {
+      "identifier": "4",
       "name": "Eva",
       "publisher": "Andoni",
       "tray_image_file": "eva_tray.png",
