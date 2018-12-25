@@ -75,6 +75,38 @@
         {
           "image_file": "taffy_angel.webp",
           "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "taffy_señala.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "taffy_palomitas.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "taffy_gordo.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "taffy_globo.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "taffy_enfadado.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "taffy_llora.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "taffy_papel.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "taffy_vampiro.webp",
+          "emojis": ["💻","😩"]
         }
       ]
     },
