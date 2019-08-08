@@ -131,6 +131,10 @@
         {
           "image_file": "asensio_flipau.webp",
           "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "hodei.webp",
+          "emojis": ["😩","😰"]
         }
       ]
     },
