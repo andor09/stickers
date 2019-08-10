@@ -139,6 +139,14 @@
         {
           "image_file": "hodei.webp",
           "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "hodei_comida.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "magali_comida.webp",
+          "emojis": ["😍","♥"]
         }
       ]
     },
